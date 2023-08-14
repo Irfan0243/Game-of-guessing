@@ -36,7 +36,7 @@ class Guessing{
         return false;
     }
     }
-public class Guessing {
+public class class_50 {
     public static void main (String[] args){
         Game g= new Game();
         boolean b=false;
